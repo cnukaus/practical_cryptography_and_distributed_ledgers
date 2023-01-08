@@ -218,6 +218,7 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [Stanford EE374 Blockchain Foundations - David Tse, Dionysis Zindros](https://web.stanford.edu/class/ee374/)
 - [ECE595 Foundations of Blockchain Systems - Sreeram Kannan](https://ece595uwseattle.github.io/schedule)
 - [CS598CAL Consensus Algorithms - Ling Ren](https://sites.google.com/view/cs598cal?pli=1)
+- [Chinese, blockchain class](https://github.com/script-money/BlockchainClass)
 
 ---
 # Missing topics
