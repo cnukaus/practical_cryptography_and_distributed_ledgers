@@ -219,6 +219,7 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - [ECE595 Foundations of Blockchain Systems - Sreeram Kannan](https://ece595uwseattle.github.io/schedule)
 - [CS598CAL Consensus Algorithms - Ling Ren](https://sites.google.com/view/cs598cal?pli=1)
 - [Chinese, blockchain class](https://github.com/script-money/BlockchainClass)
+- [learn and earn pointer.gg](https://www.pointer.gg/tutorials/solid-solidity/a7ec3eff-fc59-481d-bcb2-1224b3e9c0f7)
 
 ---
 # Missing topics
